@@ -21,4 +21,6 @@ Access Modifiers: public, private, protected, and readonly.
 Author
 
 Created as part of my TypeScript learning journey.
--Lorens Bappy Mondal (Student of Programming Hero Next Level: Software Development with AI Engineering)
+
+-Lorens Bappy Mondal 
+(Student of Programming Hero Next Level: Software Development with AI Engineering)
