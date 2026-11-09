@@ -1,4 +1,4 @@
-Assignment: Problem Solving with TypeScript & OOP
+Assignment: Problem Solving with TypeScript & OOP 
 
 Assignment Overview
 
@@ -8,9 +8,9 @@ Assignment Files
 
 solutions.ts: Contains the TypeScript assignment solutions.
 
-Blog 01: typescript-generics.md
+Blog 01: [TypeScript Generics and Promise](typescript-generics.md)
 
-Blog 02: typescript-access-modifiers.md
+Blog 02: [TypeScript Access Modifiers](typescript-access-modifiers.md)
 
 Topics Covered
 
